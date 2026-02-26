@@ -1,9 +1,6 @@
-# basic-project-05
+# Password Generator
 
-This is a basic project repository created automatically.
+This is a Password Generator repository created for imabot2604.
 
-## How to run
-
-```bash
-python3 main.py
-```
+## File
+- `pwd_gen.py`
